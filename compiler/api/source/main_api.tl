@@ -2057,3 +2057,4 @@ chatlists.leaveChatlist#74fae13a chatlist:InputChatlist peers:Vector<InputPeer> 
 
 payments.getStarGifts#c4563590 hash:int = payments.StarGifts;
 payments.starGifts#901689ea hash:int gifts:Vector<StarGift> = payments.StarGifts;
+starGift#aea174ee date:int sender_id:Peer receiver_id:Peer emoji:string tooltip:string = payments.StarGift
