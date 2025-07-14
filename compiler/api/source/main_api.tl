@@ -2106,3 +2106,5 @@ payments.canPurchaseStore#4fdc5ea7 purpose:InputStorePaymentPurpose = Bool;
 
 payments.starGiftsNotModified#a388a368 = payments.StarGifts;
 payments.starGifts#901689ea hash:int gifts:Vector<StarGift> = payments.StarGifts;
+
+starGift#aea174ee flags:# limited:flags.0?true id:long sticker:Document stars:long availability_remains:flags.0?int availability_total:flags.0?int convert_stars:long = StarGift;
