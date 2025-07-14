@@ -2727,6 +2727,8 @@ smsjobs.getStatus#10a698e8 = smsjobs.Status;
 smsjobs.getSmsJob#778d902f job_id:string = SmsJob;
 smsjobs.finishJob#4f1ebf24 flags:# job_id:string error:flags.0?string = Bool;
 
+emojiStatusUntil#fa30a8c7 document_id:long until:int = EmojiStatus;
+
 fragment.getCollectibleInfo#be1e85ba collectible:InputCollectible = fragment.CollectibleInfo;
 
 // LAYER 207
