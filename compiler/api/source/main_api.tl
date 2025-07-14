@@ -2054,3 +2054,5 @@ chatlists.getLeaveChatlistSuggestions#fdbcd714 chatlist:InputChatlist = Vector<P
 chatlists.leaveChatlist#74fae13a chatlist:InputChatlist peers:Vector<InputPeer> = Updates;
 
 // LAYER 158
+
+payments.getStarGifts#c4563590 hash:int = payments.StarGifts;
